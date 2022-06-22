@@ -12,4 +12,3 @@ if __name__ == "__main__":
     print(type(cmd_arg))
     print(user_config)
     print(type(user_config)
-
